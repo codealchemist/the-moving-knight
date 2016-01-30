@@ -1,0 +1,20 @@
+{
+  "name": "the-moving-knight",
+  "version": "1.0.0",
+  "description": "A backtracking algorithm that finds the shortest sequence of moves for a knight on a chess board to go from one point to another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knight",
+    "chess",
+    "backtracking",
+    "movement"
+  ],
+  "author": "Alberto Miranda <b3rt.js@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
